@@ -1,0 +1,18 @@
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and operating-system files
+.idea/
+.DS_Store
+
+# Course-platform files and generated output
+course-info.yaml
+course-remote-info.yaml
+/requirements.txt
+Sorting Tool with Python/*
+!Sorting Tool with Python/task/
+Sorting Tool with Python/task/*
+!Sorting Tool with Python/task/main.py
